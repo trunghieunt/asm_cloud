@@ -1,0 +1,61 @@
+
+		.header{
+			background-color: #D0CFCF;
+			font-family: sans-serif;
+			z-index:1;
+			background-color: rgba(0, 225, 0, 0.4);
+		}
+		.header ul{
+			padding: 0;
+			margin: 0;
+			list-style-type: none;
+			z-index:-1;
+		}
+		.header a{
+			padding: 0 10px;
+			color: #FFFEFE;
+			font-size: 20px;
+			line-height: 50px;
+			text-decoration: none;
+			display: inline-block;
+			margin-left: 60px;
+		}
+		.header li{
+			display: inline-block;
+		}
+		.header a:hover{
+			background-color: #0D7905;
+			color: #050505;
+
+		}
+		.search-box{
+			display: inline-flex;
+			width: 400px;
+			height: 25px;
+			margin-left: 300px;
+			margin-top: 10px;
+		}
+		.search-box{
+			display: inline-flex;
+			width: 400px;
+			height: 25px;
+			margin-left: 300px;
+			margin-top: 10px;
+		}
+		.Allproduct{
+			width: 23%;
+			height:350px;
+			margin-top:50px; 
+			float: left;
+			box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+			background-color:HSL(223, 12%, 88%);
+			white-space: nowrap; 
+     		overflow: hidden;
+     		margin-left:15px;
+     		margin-right:15px;
+     		border-radius: 20px;
+		}
+		.img{
+			width: 100px;
+			height:100px;
+		}
